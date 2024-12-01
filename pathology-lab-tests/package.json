@@ -1,0 +1,11 @@
+{
+  "name": "pathology-lab-tests",
+  "version": "1.0.0",
+  "description": "Cypress tests for Pathology Lab Management web application",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  }
+}
